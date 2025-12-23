@@ -1,4 +1,4 @@
-# Apple Services Manager v2.0
+# Apple Services Manager v1.0
 
 A Windows batch script utility to manage Apple services on your PC. This tool helps you easily start, stop, restart, and check the status of Apple-related services.
 
